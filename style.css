@@ -42,7 +42,7 @@ a:hover {
 
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.button {
+a.button {
   display: inline-block;
   height: 38px;
   padding: 0 30px;
@@ -61,7 +61,7 @@ a:hover {
   cursor: pointer;
   box-sizing: border-box; 
 }
-.button:hover {
+a.button:hover {
   color: #333;
   background-color: gold;
   border-color: gold;
