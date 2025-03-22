@@ -22,7 +22,8 @@ body {
     letter-spacing: 2px;
     color: gold;
 }
-#main h1 { letter-spacing: 2px }
+
+#main h1 { margin-top: 0px; margin-bottom: 0px; letter-spacing: 2px }
 #main h3 { color: gold; }
 
 
